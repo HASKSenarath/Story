@@ -1,1 +1,3 @@
-Hello World
+pandas (label: good-first-issue)
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+Pytest (label: status:-easy)

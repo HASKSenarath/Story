@@ -1,1 +1,2 @@
-This is the third chapter
+Sorting-Algorithms-Visualizer (label: good-first-issue)
+A tool for visualizing sorting algorithms with a educational Wiki Page.
