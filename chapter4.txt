@@ -1,0 +1,4 @@
+tree-sitter-legesher-python (label: Good-First-Issue)
+Learn and code in Python using your native language.
+wemake-python-styleguide (label: level:starter)
+The strictest and most opinionated python linter ever!
