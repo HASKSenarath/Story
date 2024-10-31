@@ -1,4 +1,16 @@
-tree-sitter-legesher-python (label: Good-First-Issue)
-Learn and code in Python using your native language.
-wemake-python-styleguide (label: level:starter)
-The strictest and most opinionated python linter ever!
+Chapter 4: Data Structures
+
+    Lists:
+        Ordered collections of items.
+        Accessing elements, slicing, and modifying lists.
+        List methods and operations.
+    Tuples:
+        Immutable ordered collections.
+        Tuple packing and unpacking.
+    Dictionaries:
+        Unordered key-value pairs.
+        Accessing values, adding and removing key-value pairs.
+        Dictionary methods and operations.
+    Sets:
+        Unordered collections of unique elements.
+        Set operations (union, intersection, difference, symmetric difference).

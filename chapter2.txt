@@ -1,2 +1,7 @@
-Pytest (label: status:-easy)
-The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+Chapter 2: Control Flow
+
+    Conditional Statements:
+        if, else, and elif statements for decision-making.
+    Loops:
+        for loops for iterating over sequences.
+        while loops for repeating code blocks until a condition is met.

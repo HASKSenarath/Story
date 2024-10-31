@@ -1,3 +1,17 @@
-pandas (label: good-first-issue)
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-Pytest (label: status:-easy)
+Chapter 1: Python Basics
+
+    Installation and Setup:
+        Download and install Python from the official website.
+        Choose a suitable IDE (Integrated Development Environment) like Visual Studio Code, PyCharm, or Thonny.
+    Introduction to Python:
+        Understanding Python's syntax and basic structure.
+        Printing statements using the print() function.
+        Using comments to explain code.
+    Variables and Data Types:
+        Declaring variables and assigning values.
+        Understanding data types: integers, floats, strings, and Booleans.
+        Type conversions.
+    Operators:
+        Arithmetic operators (+, -, *, /, //, %, **).
+        Comparison operators (==, !=, <, >, <=, >=).
+        Logical operators (and, or, not).

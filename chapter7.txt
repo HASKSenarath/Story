@@ -1,0 +1,8 @@
+Chapter 7: File Handling
+
+    Opening and Closing Files:
+        Using the open() function to open files in different modes (read, write, append).
+        Closing files with the close() method.
+    Reading and Writing Files:
+        Reading file contents using read(), readline(), and readlines().
+        Writing to files using write() and writelines().

@@ -1,0 +1,11 @@
+Chapter 6: Object-Oriented Programming (OOP)
+
+    Classes and Objects:
+        Defining classes and creating objects.
+        Understanding attributes and methods.
+    Inheritance:
+        Creating child classes that inherit properties from parent classes.
+    Polymorphism:
+        Using objects of different classes through a common interface.
+    Encapsulation:
+        Hiding implementation details and controlling access to data.

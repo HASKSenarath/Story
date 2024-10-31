@@ -1,2 +1,10 @@
-Sorting-Algorithms-Visualizer (label: good-first-issue)
-A tool for visualizing sorting algorithms with a educational Wiki Page.
+Chapter 3: Functions
+
+    Defining Functions:
+        Creating reusable blocks of code.
+        Understanding function parameters and return values.
+    Function Arguments:
+        Positional arguments.
+        Keyword arguments.
+        Default arguments.
+        Variable-length arguments (*args and **kwargs).

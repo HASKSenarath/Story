@@ -1,0 +1,14 @@
+Chapter 5: Modules and Packages
+
+    Importing Modules:
+
+    Using the import statement to access modules.
+    Using the from...import statement to import specific functions or classes.
+
+Creating Modules:
+
+    Organizing code into reusable modules.
+
+Using Standard Library Modules:
+
+    Exploring built-in modules like math, random, datetime, etc.
