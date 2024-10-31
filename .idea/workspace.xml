@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e7a2ba-1c03-4fab-9fa5-52626c8246e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/story.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f7e7a2ba-1c03-4fab-9fa5-52626c8246e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
